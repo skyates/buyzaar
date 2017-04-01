@@ -6,6 +6,14 @@ gem 'simple_form'
 #for authentiction
 gem 'devise'
 
+#for image storage
+gem 'cloudinary'
+
+#for an uploader
+gem 'carrierwave', '~> 1.0'
+
+gem 'rolify'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use sqlite3 as the database for Active Record
