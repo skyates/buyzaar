@@ -1,19 +1,19 @@
 ---
 development:
-  cloud_name: petpics
-  api_key: '526364668354525'
-  api_secret: OZALThX5E_QtIy0yDZS1SfiZ8kw
+  cloud_name: djw7kogbq
+  api_key: '334622996542763'
+  api_secret: tdyjLMswTsZOi4ijgN3Ah9yMeEU
   enhance_image_tag: true
   static_image_support: false
 production:
-  cloud_name: petpics
-  api_key: '526364668354525'
-  api_secret: OZALThX5E_QtIy0yDZS1SfiZ8kw
+  cloud_name: djw7kogbq
+  api_key: '334622996542763'
+  api_secret: tdyjLMswTsZOi4ijgN3Ah9yMeEU
   enhance_image_tag: true
   static_image_support: true
 test:
-  cloud_name: petpics
-  api_key: '526364668354525'
-  api_secret: OZALThX5E_QtIy0yDZS1SfiZ8kw
+  cloud_name: djw7kogbq
+  api_key: '334622996542763'
+  api_secret: tdyjLMswTsZOi4ijgN3Ah9yMeEU
   enhance_image_tag: true
   static_image_support: false
